@@ -1,0 +1,4 @@
+Utilized computer vision and the Boto3 library to control AWS EC2 instances using hand gestures captured through a
+webcam.
+Enabled launching and terminating instances based on specific hand gestures, integrating with AWS services like EC2,
+ELB, and Target Groups
